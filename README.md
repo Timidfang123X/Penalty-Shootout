@@ -2,6 +2,10 @@
 
 A fun and interactive React-based penalty shootout game where you take on the role of a soccer player trying to score against a goalkeeper in a best-of-5 series.
 
+**Try it out live:** [https://penalty-shootout-tawny.vercel.app/](https://penalty-shootout-tawny.vercel.app/)
+
+Experience the game immediately without any setup required. Challenge yourself to beat the goalkeeper in this exciting penalty shootout!
+
 ## Features
 
 - **Interactive Goal Graphics**: Beautiful soccer goal with realistic net and posts
