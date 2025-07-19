@@ -1,8 +1,8 @@
-# ⚽ Penalty Shootout
+# Penalty Shootout
 
 A fun and interactive React-based penalty shootout game where you take on the role of a soccer player trying to score against a goalkeeper in a best-of-5 series.
 
-## 🎮 Features
+## Features
 
 - **Interactive Goal Graphics**: Beautiful soccer goal with realistic net and posts
 - **Three Shot Directions**: Choose to shoot Left, Center, or Right
@@ -13,7 +13,7 @@ A fun and interactive React-based penalty shootout game where you take on the ro
 - **Responsive Design**: Works on desktop and mobile devices
 - **Modern UI**: Beautiful gradients, shadows, and smooth interactions
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -34,7 +34,7 @@ A fun and interactive React-based penalty shootout game where you take on the ro
    ```
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## 🎯 How to Play
+## How to Play
 
 1. **Start the Game**: The game begins automatically with Round 1 of 5
 2. **Choose Your Shot**: Click one of the three buttons:
@@ -45,13 +45,13 @@ A fun and interactive React-based penalty shootout game where you take on the ro
    - The ball will animate toward your chosen direction
    - The goalkeeper will randomly dive in one of three directions
 4. **See the Result**:
-   - **GOAL!** 🎉 - If your shot direction doesn't match the keeper's dive
-   - **SAVED!** 🧤 - If the keeper dives in the same direction as your shot
+   - **GOAL!** - If your shot direction doesn't match the keeper's dive
+   - **SAVED!** - If the keeper dives in the same direction as your shot
 5. **Track the Score**: The score is displayed as "Player X - Y Keeper"
 6. **Win the Series**: First to win 3 out of 5 rounds wins the game
 7. **Play Again**: Click "Play Again" to restart after the series ends
 
-## 🏆 Game Rules
+## Game Rules
 
 - **Best of 5**: First player to win 3 rounds wins the series
 - **Scoring**: You score when your shot direction doesn't match the keeper's dive
@@ -59,7 +59,7 @@ A fun and interactive React-based penalty shootout game where you take on the ro
 - **Random Keeper**: The goalkeeper's dive direction is completely random
 - **No Ties**: If tied after 5 rounds, the game continues until someone wins
 
-## 🛠️ Technical Details
+## Technical Details
 
 - **Framework**: React 18 with functional components and hooks
 - **State Management**: React useState for game state
@@ -68,7 +68,7 @@ A fun and interactive React-based penalty shootout game where you take on the ro
 - **Responsive**: Mobile-friendly design with media queries
 - **No External Dependencies**: All assets and logic are local
 
-## 📱 Responsive Design
+## Responsive Design
 
 The game is fully responsive and works on:
 - Desktop computers
@@ -76,7 +76,7 @@ The game is fully responsive and works on:
 - Mobile phones
 - Different screen sizes and orientations
 
-## 🎨 Customization
+## Customization
 
 You can easily customize the game by modifying:
 - Colors and gradients in `src/index.css`
@@ -84,7 +84,7 @@ You can easily customize the game by modifying:
 - Game logic in `src/PenaltyShootout.js`
 - Number of rounds by changing `TOTAL_ROUNDS`
 
-## 🚀 Build for Production
+## Build for Production
 
 To create a production build:
 
@@ -94,10 +94,10 @@ npm run build
 
 This creates an optimized build in the `build` folder that you can deploy to any static hosting service.
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
 
 ---
 
-Enjoy playing Penalty Shootout! ⚽🎮 
+Enjoy playing Penalty Shootout! 
